@@ -1,0 +1,6 @@
+body{margin:0;font:16px/1.5 system-ui;background:#0b1220;color:#e2e8f0}
+.wrap{max-width:960px;margin:40px auto;padding:0 16px;text-align:center}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.card{border:1px solid #334155;border-radius:14px;padding:16px;background:#111827}
+.card.featured{outline:2px solid #60a5fa}
+button{padding:10px 14px;border-radius:10px;border:0;background:#2563eb;color:#fff;cursor:pointer}
